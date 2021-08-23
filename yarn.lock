@@ -717,17 +717,17 @@
   dependencies:
     object-assign "^4.1.1"
 
-"@snapshot-labs/lock@github:snapshot-labs/lock#master":
+"@snapshot-labs/lock@github:becoswap/lock#master":
   version "0.1.3"
-  resolved "https://codeload.github.com/snapshot-labs/lock/tar.gz/0cfc5367aa7ba0ef42b49c73aea3956fbac1e5c3"
+  resolved "https://codeload.github.com/becoswap/lock/tar.gz/67cd0601f00d7449dc9d8c4e1f2f0cd7579ba295"
 
-"@snapshot-labs/snapshot-spaces@github:snapshot-labs/snapshot-spaces#master":
+"@snapshot-labs/snapshot-spaces@github:becoswap/snapshot-spaces#master":
   version "0.1.0"
-  resolved "https://codeload.github.com/snapshot-labs/snapshot-spaces/tar.gz/master"
+  resolved "https://codeload.github.com/becoswap/snapshot-spaces/tar.gz/dc19889314feabdc730a7fb61194f15fc9c78f71"
 
-"@snapshot-labs/snapshot.js@github:snapshot-labs/snapshot.js#master":
+"@snapshot-labs/snapshot.js@github:becoswap/snapshot.js#master":
   version "0.2.0"
-  resolved "https://codeload.github.com/snapshot-labs/snapshot.js/tar.gz/33bbdc962601a808df7806051197f5d4c399364f"
+  resolved "https://codeload.github.com/becoswap/snapshot.js/tar.gz/3984523627655eb2d116ce72f8d5eb4a3a767474"
   dependencies:
     "@ethersproject/abi" "^5.0.4"
     "@ethersproject/address" "^5.0.4"
