@@ -18,10 +18,10 @@ const injected = computed(() => getInjected());
 async function handleLogout() {
   await logout();
   emit('close');
-}
+} 
 
 const path =
-  'https://raw.githubusercontent.com/snapshot-labs/lock/master/connectors/assets';
+  'https://raw.githubusercontent.com/becoswap/lock/master/connectors/assets';
 
 watch(open, () => (step.value = null));
 </script>
