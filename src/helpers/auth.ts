@@ -5,6 +5,7 @@ import portis from '@snapshot-labs/lock/connectors/portis';
 import fortmatic from '@snapshot-labs/lock/connectors/fortmatic';
 import connectors from '@/helpers/connectors.json';
 import walletlink from '@snapshot-labs/lock/connectors/walletlink';
+import injected from '@snapshot-labs/lock/connectors/injected';
 
 const options: any = { connectors: [] };
 const lockConnectors = {
@@ -13,7 +14,8 @@ const lockConnectors = {
   torus,
   walletlink,
   portis,
-  fortmatic
+  fortmatic,
+  injected
 };
 
 Object.entries(connectors).forEach((connector: any) => {
