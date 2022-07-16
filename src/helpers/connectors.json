@@ -2,5 +2,9 @@
   "kardiachain": {
     "id": "kardiachain",
     "name": "Kardiachain"
+  },
+  "injected": {
+    "id": "injected",
+    "name": "MetaMask"
   }
 }
