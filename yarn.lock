@@ -724,9 +724,9 @@
   version "0.1.0"
   resolved "https://codeload.github.com/becoswap/snapshot-spaces/tar.gz/67103c6c435e2c3dde2f1fae67d7c073ea069c22"
 
-"@snapshot-labs/snapshot.js@github:becoswap/snapshot.js#master":
+"@snapshot-labs/snapshot.js@github:becoswap/snapshot.js#b5b335765a0594ad4ab22062681aa0c748e9ba7b":
   version "0.2.0"
-  resolved "https://codeload.github.com/becoswap/snapshot.js/tar.gz/3984523627655eb2d116ce72f8d5eb4a3a767474"
+  resolved "https://codeload.github.com/becoswap/snapshot.js/tar.gz/b5b335765a0594ad4ab22062681aa0c748e9ba7b"
   dependencies:
     "@ethersproject/abi" "^5.0.4"
     "@ethersproject/address" "^5.0.4"
